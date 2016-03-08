@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	cout << "HelloGit" << endl;
+	cout << "HelloGit 2.0 released" << endl;
 	system("pause");
 
 }
